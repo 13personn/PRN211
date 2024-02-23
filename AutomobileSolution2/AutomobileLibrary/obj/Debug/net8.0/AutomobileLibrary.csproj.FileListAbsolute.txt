@@ -1,0 +1,41 @@
+F:\VisualStudioDownload\ProjectC#\AutomobileSolution2\AutomobileLibrary\bin\Debug\net8.0\AutomobileLibrary.deps.json
+F:\VisualStudioDownload\ProjectC#\AutomobileSolution2\AutomobileLibrary\bin\Debug\net8.0\AutomobileLibrary.dll
+F:\VisualStudioDownload\ProjectC#\AutomobileSolution2\AutomobileLibrary\bin\Debug\net8.0\AutomobileLibrary.pdb
+F:\VisualStudioDownload\ProjectC#\AutomobileSolution2\AutomobileLibrary\obj\Debug\net8.0\AutomobileLibrary.GeneratedMSBuildEditorConfig.editorconfig
+F:\VisualStudioDownload\ProjectC#\AutomobileSolution2\AutomobileLibrary\obj\Debug\net8.0\AutomobileLibrary.AssemblyInfoInputs.cache
+F:\VisualStudioDownload\ProjectC#\AutomobileSolution2\AutomobileLibrary\obj\Debug\net8.0\AutomobileLibrary.AssemblyInfo.cs
+F:\VisualStudioDownload\ProjectC#\AutomobileSolution2\AutomobileLibrary\obj\Debug\net8.0\AutomobileLibrary.csproj.CoreCompileInputs.cache
+F:\VisualStudioDownload\ProjectC#\AutomobileSolution2\AutomobileLibrary\obj\Debug\net8.0\AutomobileLibrary.dll
+F:\VisualStudioDownload\ProjectC#\AutomobileSolution2\AutomobileLibrary\obj\Debug\net8.0\refint\AutomobileLibrary.dll
+F:\VisualStudioDownload\ProjectC#\AutomobileSolution2\AutomobileLibrary\obj\Debug\net8.0\AutomobileLibrary.pdb
+F:\VisualStudioDownload\ProjectC#\AutomobileSolution2\AutomobileLibrary\obj\Debug\net8.0\ref\AutomobileLibrary.dll
+F:\VisualStudioDownload\ProjectC#\AutomobileSolution2\AutomobileLibrary\obj\Debug\net8.0\AutomobileLibrary.csproj.AssemblyReference.cache
+F:\VisualStudioDownload\ProjectC#\AutomobileSolution2\AutomobileLibrary\bin\Debug\net8.0\appsettings.json
+C:\Users\LAPTOP\Desktop\WorkSpace\.Net\lab2PRN\LabPRN211\LabPRN211\AutomobileSolution2\AutomobileLibrary\bin\Debug\net8.0\appsettings.json
+C:\Users\LAPTOP\Desktop\WorkSpace\.Net\lab2PRN\LabPRN211\LabPRN211\AutomobileSolution2\AutomobileLibrary\bin\Debug\net8.0\AutomobileLibrary.deps.json
+C:\Users\LAPTOP\Desktop\WorkSpace\.Net\lab2PRN\LabPRN211\LabPRN211\AutomobileSolution2\AutomobileLibrary\bin\Debug\net8.0\AutomobileLibrary.dll
+C:\Users\LAPTOP\Desktop\WorkSpace\.Net\lab2PRN\LabPRN211\LabPRN211\AutomobileSolution2\AutomobileLibrary\bin\Debug\net8.0\AutomobileLibrary.pdb
+C:\Users\LAPTOP\Desktop\WorkSpace\.Net\lab2PRN\LabPRN211\LabPRN211\AutomobileSolution2\AutomobileLibrary\obj\Debug\net8.0\AutomobileLibrary.csproj.AssemblyReference.cache
+C:\Users\LAPTOP\Desktop\WorkSpace\.Net\lab2PRN\LabPRN211\LabPRN211\AutomobileSolution2\AutomobileLibrary\obj\Debug\net8.0\AutomobileLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAPTOP\Desktop\WorkSpace\.Net\lab2PRN\LabPRN211\LabPRN211\AutomobileSolution2\AutomobileLibrary\obj\Debug\net8.0\AutomobileLibrary.AssemblyInfoInputs.cache
+C:\Users\LAPTOP\Desktop\WorkSpace\.Net\lab2PRN\LabPRN211\LabPRN211\AutomobileSolution2\AutomobileLibrary\obj\Debug\net8.0\AutomobileLibrary.AssemblyInfo.cs
+C:\Users\LAPTOP\Desktop\WorkSpace\.Net\lab2PRN\LabPRN211\LabPRN211\AutomobileSolution2\AutomobileLibrary\obj\Debug\net8.0\AutomobileLibrary.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP\Desktop\WorkSpace\.Net\lab2PRN\LabPRN211\LabPRN211\AutomobileSolution2\AutomobileLibrary\obj\Debug\net8.0\AutomobileLibrary.sourcelink.json
+C:\Users\LAPTOP\Desktop\WorkSpace\.Net\lab2PRN\LabPRN211\LabPRN211\AutomobileSolution2\AutomobileLibrary\obj\Debug\net8.0\AutomobileLibrary.dll
+C:\Users\LAPTOP\Desktop\WorkSpace\.Net\lab2PRN\LabPRN211\LabPRN211\AutomobileSolution2\AutomobileLibrary\obj\Debug\net8.0\refint\AutomobileLibrary.dll
+C:\Users\LAPTOP\Desktop\WorkSpace\.Net\lab2PRN\LabPRN211\LabPRN211\AutomobileSolution2\AutomobileLibrary\obj\Debug\net8.0\AutomobileLibrary.pdb
+C:\Users\LAPTOP\Desktop\WorkSpace\.Net\lab2PRN\LabPRN211\LabPRN211\AutomobileSolution2\AutomobileLibrary\obj\Debug\net8.0\ref\AutomobileLibrary.dll
+C:\Users\LAPTOP\Desktop\WorkSpace\.Net\New folder\PRN211\AutomobileSolution2\AutomobileLibrary\bin\Debug\net8.0\appsettings.json
+C:\Users\LAPTOP\Desktop\WorkSpace\.Net\New folder\PRN211\AutomobileSolution2\AutomobileLibrary\bin\Debug\net8.0\AutomobileLibrary.deps.json
+C:\Users\LAPTOP\Desktop\WorkSpace\.Net\New folder\PRN211\AutomobileSolution2\AutomobileLibrary\bin\Debug\net8.0\AutomobileLibrary.dll
+C:\Users\LAPTOP\Desktop\WorkSpace\.Net\New folder\PRN211\AutomobileSolution2\AutomobileLibrary\bin\Debug\net8.0\AutomobileLibrary.pdb
+C:\Users\LAPTOP\Desktop\WorkSpace\.Net\New folder\PRN211\AutomobileSolution2\AutomobileLibrary\obj\Debug\net8.0\AutomobileLibrary.csproj.AssemblyReference.cache
+C:\Users\LAPTOP\Desktop\WorkSpace\.Net\New folder\PRN211\AutomobileSolution2\AutomobileLibrary\obj\Debug\net8.0\AutomobileLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAPTOP\Desktop\WorkSpace\.Net\New folder\PRN211\AutomobileSolution2\AutomobileLibrary\obj\Debug\net8.0\AutomobileLibrary.AssemblyInfoInputs.cache
+C:\Users\LAPTOP\Desktop\WorkSpace\.Net\New folder\PRN211\AutomobileSolution2\AutomobileLibrary\obj\Debug\net8.0\AutomobileLibrary.AssemblyInfo.cs
+C:\Users\LAPTOP\Desktop\WorkSpace\.Net\New folder\PRN211\AutomobileSolution2\AutomobileLibrary\obj\Debug\net8.0\AutomobileLibrary.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP\Desktop\WorkSpace\.Net\New folder\PRN211\AutomobileSolution2\AutomobileLibrary\obj\Debug\net8.0\AutomobileLibrary.sourcelink.json
+C:\Users\LAPTOP\Desktop\WorkSpace\.Net\New folder\PRN211\AutomobileSolution2\AutomobileLibrary\obj\Debug\net8.0\AutomobileLibrary.dll
+C:\Users\LAPTOP\Desktop\WorkSpace\.Net\New folder\PRN211\AutomobileSolution2\AutomobileLibrary\obj\Debug\net8.0\refint\AutomobileLibrary.dll
+C:\Users\LAPTOP\Desktop\WorkSpace\.Net\New folder\PRN211\AutomobileSolution2\AutomobileLibrary\obj\Debug\net8.0\AutomobileLibrary.pdb
+C:\Users\LAPTOP\Desktop\WorkSpace\.Net\New folder\PRN211\AutomobileSolution2\AutomobileLibrary\obj\Debug\net8.0\ref\AutomobileLibrary.dll
