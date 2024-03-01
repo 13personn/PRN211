@@ -1,0 +1,15 @@
+C:\Users\LAPTOP\Desktop\WorkSpace\.Net\Ass02Solution\Ass02Solution\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\LAPTOP\Desktop\WorkSpace\.Net\Ass02Solution\Ass02Solution\bin\Debug\net6.0\DataAccess.dll
+C:\Users\LAPTOP\Desktop\WorkSpace\.Net\Ass02Solution\Ass02Solution\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\LAPTOP\Desktop\WorkSpace\.Net\Ass02Solution\Ass02Solution\bin\Debug\net6.0\BusinessObject.dll
+C:\Users\LAPTOP\Desktop\WorkSpace\.Net\Ass02Solution\Ass02Solution\bin\Debug\net6.0\BusinessObject.pdb
+C:\Users\LAPTOP\Desktop\WorkSpace\.Net\Ass02Solution\Ass02Solution\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\LAPTOP\Desktop\WorkSpace\.Net\Ass02Solution\Ass02Solution\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAPTOP\Desktop\WorkSpace\.Net\Ass02Solution\Ass02Solution\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\LAPTOP\Desktop\WorkSpace\.Net\Ass02Solution\Ass02Solution\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\LAPTOP\Desktop\WorkSpace\.Net\Ass02Solution\Ass02Solution\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP\Desktop\WorkSpace\.Net\Ass02Solution\Ass02Solution\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\LAPTOP\Desktop\WorkSpace\.Net\Ass02Solution\Ass02Solution\obj\Debug\net6.0\DataAccess.dll
+C:\Users\LAPTOP\Desktop\WorkSpace\.Net\Ass02Solution\Ass02Solution\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\LAPTOP\Desktop\WorkSpace\.Net\Ass02Solution\Ass02Solution\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\LAPTOP\Desktop\WorkSpace\.Net\Ass02Solution\Ass02Solution\obj\Debug\net6.0\ref\DataAccess.dll
